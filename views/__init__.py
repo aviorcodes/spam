@@ -1,0 +1,1 @@
+# Package marker — makes views/ importable as a Python package.
